@@ -1,0 +1,26 @@
+*{
+    text-align:center;
+    color: black;
+    
+}
+p{
+    font-size: 20px;
+    font-weight: 600;
+    color: red;
+}
+.black{
+    color: black;
+}
+#green{
+    color: green;
+}
+a[href]{
+    font-size: 20px;
+    font-weight: 600;
+    text-decoration: none;
+    color: blue;
+}
+h4{
+    font-size: 20px;
+    font-weight: 600;
+}
